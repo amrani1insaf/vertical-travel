@@ -50,5 +50,5 @@ Contributors
     ],
     'demo': [],
     'test': [],
-    'installable': False,
+    'auto-install': True,
 }
